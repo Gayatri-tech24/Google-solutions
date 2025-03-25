@@ -3,11 +3,11 @@
     <h1> NEXORA</h1>
     <h4><t> Connecting Lives, Empowering Future</t><h4>
       TEAM DETAILS: <br>
-      1) TEAM NAME: SLAYER'S
-      2) TEAM MEMBERS: RADHIKA
-                       NISHEL
-                      SUSHMITA
-                       GAYATRI(TEAM LEADER)
+      1) TEAM NAME: SLAYER'S <br>
+      2) TEAM MEMBERS: RADHIKA<br>
+                   <t><t>NISHEL<br></t></t>    
+                      SUSHMITA<br>
+                       GAYATRI(TEAM LEADER)<br>
       <HR>
       <h3> ABOUT </h3>
       <t> Nexora is a <b> community driven platform </b> designed to tackle food insecurity, lack of education, and limited healthcare access.<br>
