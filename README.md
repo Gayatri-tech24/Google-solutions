@@ -5,11 +5,11 @@
       TEAM DETAILS: <br>
       1) TEAM NAME: SLAYER'S <br>
       2) TEAM MEMBERS: RADHIKA<br>
-                   <t><t>NISHEL<br></t></t>    
-                      SUSHMITA<br>
-                       GAYATRI(TEAM LEADER)<br>
+                   <t><t>NISHEL</t></t><br>  
+                      <t><t>SUSHMITA</t></t><br>
+                       <t><t> GAYATRI(TEAM LEADER</t></t>)<br>
       <HR>
-      <h3> ABOUT </h3>
+     <t><t> <h3> ABOUT </h3></t></t>
       <t> Nexora is a <b> community driven platform </b> designed to tackle food insecurity, lack of education, and limited healthcare access.<br>
         It connects people who want to <b> donate, receive, or exchange essential resources </b> efficiently.<br>
           Key Features:<br>
